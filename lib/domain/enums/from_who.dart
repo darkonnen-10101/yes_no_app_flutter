@@ -1,0 +1,4 @@
+enum FromWho {
+  me,
+  hers,
+}

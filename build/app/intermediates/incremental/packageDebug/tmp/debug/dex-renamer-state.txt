@@ -1,0 +1,4 @@
+#Sat May 06 17:10:24 CLT 2023
+base.0=/Users/darkonnen/Personal/Ripley/Repositorios/Apps/yes_no_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

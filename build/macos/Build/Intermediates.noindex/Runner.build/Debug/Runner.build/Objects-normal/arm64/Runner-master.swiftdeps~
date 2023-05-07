@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "914a0ee75cbbdb1a9e4dab877f228f94dbd5231ca96732455512bac7e127ae55"
+build_start_time: [1682972872, 775707000]
+build_end_time: [1682972872, 833029000]
+inputs:
+  "/Users/darkonnen/Personal/Ripley/Repositorios/Apps/yes_no_app/macos/Flutter/GeneratedPluginRegistrant.swift": !private [1682972857, 360801399]
+  "/Users/darkonnen/Personal/Ripley/Repositorios/Apps/yes_no_app/macos/Runner/AppDelegate.swift": !private [1680713952, 0]
+  "/Users/darkonnen/Personal/Ripley/Repositorios/Apps/yes_no_app/macos/Runner/MainFlutterWindow.swift": !private [1680713952, 0]
